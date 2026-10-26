@@ -28,3 +28,4 @@ spacy
 wordcloud
 pyLDAvis
 fanalysis
+xlrd==2.0.1
